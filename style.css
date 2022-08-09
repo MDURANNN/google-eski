@@ -1,0 +1,61 @@
+.bg-gray{
+    background-color: #EEEE;
+    margin:0 70px;
+}
+ol{
+    list-style: none;
+}
+.tablo-sol{
+    text-decoration: none; 
+    margin-left: 70px;
+    width: 446px;
+    height: 90px;
+    background-color: #7EE5DA;
+    text-align: center;
+    float: left;
+    margin-top: 2px;
+
+}
+
+.tablo-orta{
+    text-decoration: none; 
+    width: 235.59px;
+    height: 90px;
+    background-color: #70CCC2;
+    text-align: center;
+    float: left;
+    margin-left: 3px;
+    margin-top: 2px;
+    text-overflow:inherit;
+}
+#ol-orta{
+    padding: 0;
+}
+
+.tablo-sag{
+    text-decoration: none; 
+    width: 524.75px;
+    height: 90px;
+    background-color: #62B3AA;
+    text-align:center;
+    float:left;
+    margin-left: 3px;
+    font-size: smaller;
+    margin-top: 2px;
+    text-overflow:inherit;
+    
+}
+
+#sag{
+    margin-top: 0px;
+    
+}
+
+#footer{
+    margin-top: 15px;
+    margin-left: 596px;
+    margin-right: 0;
+    float: left;
+    font-size: smaller;
+}
+
